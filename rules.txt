@@ -1,0 +1,14 @@
+Entity
+1) All of the entity name should be unique name
+2) All the entity name should be meaningful
+3) All of the entity name should be singular (The only time entity name is plural when the keyword is in sql)
+
+Attribute
+4) Every entity must have a primary key
+5) All of the attribute name should be meaningful
+6) All of the attribute names must be singular
+7) We should not have aggregrate fields
+8) It should not be a derived field
+9) Relationships should be one to one relationships
+10) Relationships should be one to many relationships
+11) All of the attributes of the given entity should only depend upon the primary key
